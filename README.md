@@ -1,4 +1,4 @@
-## Machine Learning Project: Model Evaluation and Performance Analysis
+## Machine Learning Project
 This project focuses on building a robust machine learning pipeline to classify data using using Linear Regression. The notebook documents the end-to-end process from initial data loading and exploratory analysis to model tuning and comparative performance evaluation.
 
 ## 🚀 Project Overview
